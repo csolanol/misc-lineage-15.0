@@ -2,7 +2,7 @@
 repopick 185640;
 
 # build/make
-repopick 186687 187329;
+repopick 186687;
 repopick -t releasetools-scripts;
 repopick 187374;
 
@@ -31,4 +31,4 @@ repopick 187147;
 repopick 186246;
 
 # vendor/lineage
-repopick 185491 185521 187951;
+repopick 185491 187951;
