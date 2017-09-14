@@ -2,9 +2,7 @@
 repopick 185640;
 
 # build/make
-repopick 186687;
-repopick -t releasetools-scripts;
-repopick 187374;
+repopick 186687 187332 187374;
 
 # bootable/recovery
 cd bootable/recovery/;
@@ -29,6 +27,3 @@ repopick 187147;
 
 # system/sepolicy
 repopick 186246;
-
-# vendor/lineage
-repopick 185491 187951;
