@@ -4,9 +4,6 @@ repopick 188834;
 # bionic
 repopick 185640;
 
-# bootable/recovery
-repopick -c 40 186286 186268-186285 186287-186299 187717 188093 188094;
-
 # build/make
 repopick 186687 187332 187374;
 
