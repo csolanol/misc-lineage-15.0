@@ -7,9 +7,6 @@ repopick 185640;
 # build/make
 repopick 186687 187332 187374;
 
-# external/mksh
-repopick 186303;
-
 # build/soong
 repopick 186740;
 
