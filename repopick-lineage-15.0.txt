@@ -10,8 +10,8 @@ repopick 186687 187332 187374;
 # build/soong
 repopick 186740;
 
-# system/core
-repopick 187146;
+# hardware/lineage/interfaces
+repopick 191742;
 
 # packages/services/Telephony
 repopick 187147;
@@ -25,5 +25,11 @@ repopick 189671 190030 190036;
 # packages/apps/Gallery2
 repopick 188527-188529;
 
-# android/system/sepolicy
+# packages/apps/Recorder
+repopick 186721 186722 186786 186723;
+
+# system/core
+repopick 187146;
+
+# system/sepolicy
 repopick 190603-190605;
