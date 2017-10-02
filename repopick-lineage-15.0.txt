@@ -10,8 +10,14 @@ repopick 186687 187332 187374;
 # build/soong
 repopick 186740;
 
+# external/ant-wireless/ant_native
+repopick 191784;
+
 # hardware/lineage/interfaces
 repopick 191742;
+
+# hardware/qcom/bt
+repopick -f 186351 191780;
 
 # packages/services/Telephony
 repopick 187147;
