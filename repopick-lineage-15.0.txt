@@ -13,9 +13,6 @@ repopick 186740;
 # device/lineage/sepolicy
 repopick 192002;
 
-# device/qcom/sepolicy
-repopick 191759;
-
 # external/ant-wireless/ant_native
 repopick 191784;
 
