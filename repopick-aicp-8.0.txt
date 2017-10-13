@@ -7,9 +7,6 @@ repopick 185640 190614;
 # build/make
 repopick 187332 187374;
 
-# device/lineage/sepolicy
-repopick 192002;
-
 # external/ant-wireless/ant_native
 repopick 191784;
 
