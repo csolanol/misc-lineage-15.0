@@ -4,9 +4,6 @@ repopick 188834;
 # bionic
 repopick 185640 190614;
 
-# build/make
-repopick 187332 187374;
-
 # external/ant-wireless/ant_native
 repopick 191784;
 
