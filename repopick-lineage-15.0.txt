@@ -25,9 +25,6 @@ repopick 186351 191780;
 # packages/apps/Camera2
 repopick 188389 188518-188526;
 
-# packages/apps/DeskClock
-repopick 189671 190030 190036;
-
 # packages/apps/Gallery2
 repopick 188527 (<-breaks g+ install) 188528 188529;
 
