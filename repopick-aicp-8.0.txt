@@ -21,6 +21,3 @@ repopick 188527 (<-breaks g+ install) 188528 188529;
 
 # packages/apps/Recorder
 repopick 186721 186786;
-
-# system/sepolicy
-repopick 190603-190605;
