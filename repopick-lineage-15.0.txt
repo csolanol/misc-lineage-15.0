@@ -33,6 +33,3 @@ repopick 186721 186786;
 
 # system/core
 repopick 187146;
-
-# system/sepolicy
-repopick 190603-190605;
