@@ -11,13 +11,10 @@ repopick 191784;
 repopick 191742;
 
 # hardware/qcom/bt
-repopick 186351 191780;
+repopick 191780;
 
 # packages/apps/Camera2
 repopick 188389 188518-188526;
 
 # packages/apps/Gallery2
 repopick 188527 (<-breaks g+ install) 188528 188529;
-
-# packages/apps/Recorder
-repopick 186721 186786;
